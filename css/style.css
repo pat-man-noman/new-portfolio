@@ -97,7 +97,7 @@
 }
 .table1 {
   font-family: Wagnesday;
-  color: rgb(198, 208, 245);
+  color: black important;
   height: 50vh
 }
 .table2{
@@ -310,7 +310,7 @@
 
 .table1 {
   font-family: Wagnesday;
-  color: rgb(198, 208, 245);
+  color: black;
   height: 50vh;
 }
 
